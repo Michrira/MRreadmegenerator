@@ -33,3 +33,7 @@ Run this app using node index.js in the command terminal
 For questions or concerns, please contact the project owner:  
 GitHub: https://github.com/Michrira  
 Email: MichaelChristianRader@gmail.com
+
+## Photos / Links
+A brief snapshot of the commands needed to run the code: 
+![Screenshot 2023-04-03 160427](https://user-images.githubusercontent.com/126362926/229645803-378ad9d5-055c-439f-bc39-ba654c0d06cb.png)
