@@ -1,8 +1,8 @@
 
-# no
+# MRreadmegenerator
 
 ## Description
-no
+This is a helpful and simple way to generate readmes through the command line app or terminal
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,10 @@ no
 - [Questions](#questions)
 
 ## Installation
-no
+simply enter the develop folder, npm i jest, npm i inquirer@8.2.4 and in the command line input node index.js
 
 ## Usage
-no
+View installation instructions
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -24,12 +24,12 @@ no
 This project is covered under the MIT license.
 
 ## Contributing
-no
+My discord study group!
 
 ## Tests
-no
+Run this app using node index.js in the command terminal
 
 ## Questions
 For questions or concerns, please contact the project owner:  
-GitHub: https://github.com/no  
-Email: no
+GitHub: https://github.com/Michrira  
+Email: MichaelChristianRader@gmail.com
